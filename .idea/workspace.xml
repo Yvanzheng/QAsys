@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3e9c047-af5e-412b-a452-e6dc2a6e80ac" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/dd-icon/dd-icon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/dd-icon/dd-icon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/folder/ziguan_zhifu1.0.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/404.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/500.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/Excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/XML.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/bgi.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/bj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/bj1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/bj2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/bj3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/bj4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/hasChildren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/index3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/login1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/login2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/icon/login3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/FYD贷款会计科目及分录V1.0.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/ziguan_zhifu.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/ziguan_zhifu1.0.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/ziguan_zhifu1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/资管支付平台测试用例_最终版.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/资管－支付平台T.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/资金管理系统测试用例垫资.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/银行核心系统概念入门简介.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CheckBase.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/auth/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/auth/daily.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/auth/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/auth/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/auth/weekly.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/404.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/500.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/searchcode.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/show.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/showJenkins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/showcode.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/daily.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/datedropper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/datedropper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/dd-icon/dd-icon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/dd-icon/dd-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/jquery-1.12.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/timedropper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/daily/timedropper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/js/html2canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/js/jquery.base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/js/tableExport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/Xml_Excel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/dailys/addDaily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/dailys/daily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/dailys/selectDaily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/dailys/showDaily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/dailys/showDetails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/dailys/updateDaily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/excel_to_xml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/seach_code.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/searchemail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/show_Bb/showcode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/show_excel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/show_jenkins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/show_xml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/showcode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/showemail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/testlink.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/useexcel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/usexml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/weeklys/addWeekly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/weeklys/showWDetails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/weeklys/showWeekly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/weeklys/updateWeekly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/weeklys/weekly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/xml_to_excel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/ziguan_zhifu1.0.xlsx.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/ziguan_zhifu1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/应收外部商户结算单视觉验证.version1.testcase.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/pro.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nohup.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wsgi.py" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="daily.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/auth/daily.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="79" />
+    <option name="y" value="66" />
+    <option name="width" value="1169" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAsys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAsys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmailFlask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QAsys" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QAsys" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QAsys" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QAsys" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="QAsys" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QAsys" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QAsys" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3e9c047-af5e-412b-a452-e6dc2a6e80ac" name="Default" comment="" />
+      <created>1504775633326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504775633326</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="79" y="66" width="1169" height="723" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24933451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/auth/daily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
